@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubElhoucine)
 
-![Top Langs](https://awesome-github-stats.azurewebsites.net/user-stats/ayoubElhoucine?theme=light&show_icons=true&cardType=github)
+![Top Langs](https://awesome-github-stats.azurewebsites.net/user-stats/ayoubElhoucine?theme=tokynight&show_icons=true&cardType=github)
 
 
 <!--
