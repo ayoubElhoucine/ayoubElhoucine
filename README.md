@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubElhoucine&layout=compact)
 
-![Top Langs](https://awesome-github-stats.azurewebsites.net/user-stats/ayoubElhoucine&show_icons=true&cardType=github)
+![Top Langs](https://awesome-github-stats.azurewebsites.net/user-stats/ayoubElhoucine?theme=tokyonight&show_icons=true&cardType=github)
 
 <!--
 **ayoubElhoucine/ayoubElhoucine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
