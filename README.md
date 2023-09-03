@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubElhoucine&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubElhoucine&count-private=true)
 
 ![Top Langs](https://awesome-github-stats.azurewebsites.net/user-stats/ayoubElhoucine?theme=tokyonight&show_icons=true&cardType=github)
 
